@@ -64,12 +64,12 @@ Single line blockquote:
 
 | Header1 | Header2 | Header3 |
 |:--------|:-------:|--------:|
+| cell 1   | cell2   | cell3   |
+| cell 4   | cell5   | cell6   |
+||
 | cell1   | cell2   | cell3   |
 | cell4   | cell5   | cell6   |
-|-----------------------------|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=============================|
+||
 | Foot1   | Foot2   | Foot3   |
 
 ## Definition Lists
@@ -80,7 +80,7 @@ Definition List Title
 Startup
 :   A startup company or startup is a company or temporary organization designed to search for a repeatable and scalable business model.
 
-#dowork
+#Do work
 :   Coined by Rob Dyrdek and his personal body guard Christopher "Big Black" Boykins, "Do Work" works as a self motivator, to motivating your friends.
 
 Do It Live
