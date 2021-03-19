@@ -6,4 +6,4 @@ redirect_from:
   - /md/
   - /education.html
 ---
-<h1>These are my education</h>
+<h1>These are my education</h1>
