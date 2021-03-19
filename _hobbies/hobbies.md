@@ -6,4 +6,8 @@ redirect_from:
   - /md/
   - /hobbies.html
 ---
-<h1>These are my Hobbies</h1> 
+<h1>Hobbies</h1>
+<ul>
+    <li>Watching Sci-Fi Movies</li>
+    <li>Playing Cricket</li>
+</ul>
