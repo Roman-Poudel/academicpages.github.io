@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Roman Poudel"
 title_separator          : "-"
-name                     : &name "Roman Poudel"
-description              : &description "Nothing to showcase about me"
+name: "Roman Poudel"
+description: "Nothing to showcase about me"
 url                      : https://Roman-Poudel.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Roman-Poudel.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Roman Poudel"
   avatar           : "me.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio: "Nothing have much to show off"
   location         : "Sydney"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : ""
+  linkedin: "roman-poudel-36b78b167"
+  orcid:
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
